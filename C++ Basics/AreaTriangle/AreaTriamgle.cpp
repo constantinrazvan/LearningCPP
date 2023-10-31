@@ -1,3 +1,13 @@
-//
-// Created by razva on 31.10.2023.
-//
+#include <iostream>
+using namespace std;
+
+int main() {
+    int b = 7, h = 5; 
+    float area; 
+
+    area = (float)b*h/2; //typecasting
+
+    cout << area;
+    
+    return 0;
+}

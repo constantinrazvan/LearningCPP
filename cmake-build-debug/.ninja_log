@@ -1,0 +1,8 @@
+# ninja log v5
+1	542	7204793966103620	CMakeFiles/LearningC__.dir/C++_Basics/main.cpp.obj	356f6fbe6c529959
+5	416	7204794810604508	CMakeFiles/LearningC__.dir/C++_Basics/HelloWorld/HelloWorld.cpp.obj	f40e08375748da91
+545	688	7204793967502259	LearningC__.exe	f10d5e69e1d38e66
+1	186	7204797833724425	build.ninja	e193d133bd606e6b
+5	470	7204796262393727	CMakeFiles/LearningC__.dir/C++_Basics/SumOfTwoNumbers/SumOfTwoNumbers.cpp.obj	260ff725730793f4
+4	526	7204798426582964	CMakeFiles/LearningC__.dir/C++_Basics/SumOfTwoNumbers/SumOfTwoNumbers.cpp.obj	260ff725730793f4
+10	527	7204798426582964	CMakeFiles/LearningC__.dir/C++_Basics/AreaTriangle/AreaTriamgle.cpp.obj	7d051e5ce625879f
